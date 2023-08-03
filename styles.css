@@ -1,0 +1,27 @@
+h1 {
+    color: red;
+}
+p{
+    color: blueviolet;
+}
+
+p{
+    color: blue;
+}
+h2 {
+    color: purple;
+}
+p{
+    color: inherit;
+}
+h3 {
+    color: blue;
+}
+
+.batidos {
+    color: brown;
+}
+
+#pisco {
+    color: green;
+}
